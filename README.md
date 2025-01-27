@@ -15,7 +15,7 @@
 
 🌱 &nbsp;I'm on track for learning more about Ionic & Mobile Applications.
 
-✍️ &nbsp;In my free time, I pursue Game development as hobbies/side hustles.
+✍️ &nbsp;In my free time, I'm into game development as hobbies/side hustles.
 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
